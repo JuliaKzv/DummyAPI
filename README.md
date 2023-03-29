@@ -11,3 +11,5 @@
 - Переменная host, которая содержит в себе базовый URL сайта.
 
 [Коллекция](Post.postman_collection.json) содержит в себе все запросы, которые были описаны в майнд-карте.
+
+Коллекция [Autotests.postman_collection.json](Autotests.postman_collection.json) содержит в себе автотесты, покрывающие объект Post.
